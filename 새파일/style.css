@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+}
+.s button{
+    background-color: black;
+    color: white;
+    width: 40px;
+    height: 30px;
+    border-radius:  10px;
+
+}
+#main input{
+    width: 190px;
+    height: 30px;
+}
+#main input{
+    border-radius: 10px ;
+}
+#qudtls input{
+    width: 20px;
+    height: 20px;
+}
